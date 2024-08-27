@@ -1,0 +1,26 @@
+16:34:42.670 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:36:46.779 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\crossbrowsertesting.xml
+
+16:36:46.953 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:36:54.865 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:36:54.949 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:36:55.214 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:36:55.374 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:22:42.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\grid-docker.xml
+
+18:22:42.858 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:31:38.387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\grid-docker.xml
+
+20:31:39.068 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+05:30:21.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\grid-docker.xml
+
+05:37:00.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\grid-docker.xml
+
+11:54:41.634 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationTesting\SeleniumJavaProgramming\OpencartV121\grid-docker.xml
+

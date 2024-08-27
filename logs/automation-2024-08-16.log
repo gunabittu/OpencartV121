@@ -1,0 +1,57 @@
+16:14:43.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+16:14:43.115 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:14:46.842 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:14:49.433 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:18:14.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+16:18:20.316 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:18:21.388 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:18:21.983 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:18:21.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:18:24.089 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+16:18:24.180 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:18:28.342 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:18:31.709 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:19:59.660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+16:20:06.564 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:20:07.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:20:08.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+16:20:08.891 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:20:08.901 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:20:12.393 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+16:20:12.557 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:20:17.843 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:20:18.359 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:20:19.738 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:20:19.743 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:20:20.143 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:20:24.155 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+16:20:24.321 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:20:24.323 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:20:31.519 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:20:34.295 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:24:39.929 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\crossbrowsertesting.xml
+
+16:24:40.122 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:24:46.992 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:26:23.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\crossbrowsertesting.xml
+
+16:26:23.330 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:26:29.833 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:26:30.468 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:26:30.655 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:26:30.813 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:34:34.293 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\crossbrowsertesting.xml
+
+16:34:34.475 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:34:42.070 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:34:42.095 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:34:42.410 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link

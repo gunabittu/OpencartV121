@@ -1,0 +1,61 @@
+12:36:37.761 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+12:36:38.011 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+12:36:38.896 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+12:36:39.244 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+12:36:40.087 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+12:36:40.088 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+12:36:41.723 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+12:36:41.771 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+12:59:56.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+13:00:01.531 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+13:00:02.337 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:00:02.943 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:00:02.952 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+13:00:05.423 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+13:00:05.524 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+06:23:16.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+06:23:22.093 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+06:23:24.522 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+15:49:49.910 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+15:49:59.328 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+15:50:02.384 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+15:50:02.399 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+15:50:04.866 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+15:50:07.374 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+15:50:19.356 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+15:50:19.363 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+15:50:33.709 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:11:41.532 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+16:11:49.445 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:11:51.716 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:11:51.723 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:11:53.576 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:11:55.756 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:12:07.814 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:12:07.819 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:12:10.153 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:13:34.780 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+16:13:41.587 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:13:43.777 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:13:43.788 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:13:45.488 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:13:47.160 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:13:58.711 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:13:58.716 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:14:01.289 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:16:52.873 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Selenium Java Programming\OpencartV121\master.xml
+
+16:16:59.609 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:17:01.884 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:17:01.913 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
